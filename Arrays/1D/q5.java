@@ -1,5 +1,4 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+// wap to sort an array if its not sorted, otherwise print the array
 import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
