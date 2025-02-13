@@ -1,5 +1,4 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+// Find number of occurences of an element
 import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
@@ -29,6 +28,6 @@ class Main {
                f++;
            }
            
-            System.out.print("number of occurences of the elemenet are: "+ f);
+            System.out.print("number of occurences of the element are: "+ f);
     }
 }
